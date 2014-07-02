@@ -1,4 +1,5 @@
 Machine Learning
+================
 
--Lecture: Andrew Ng (Standford)
--Link: https://class.coursera.org/ml-006
+# Lecture: [Andrew Ng]:http://cs.stanford.edu/people/ang/ (Standford)
+# Link: [Course Website]： https://class.coursera.org/ml-006
