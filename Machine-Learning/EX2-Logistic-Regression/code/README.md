@@ -16,6 +16,9 @@
 ### Run
 
 - plot figure of ex2data2(negtive and positive examples)
+- test sigmoid function
+- test gradient descent
+- test predict function
 ```
 ex2
 ```
