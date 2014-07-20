@@ -24,7 +24,7 @@ grad = zeros(size(theta));
 %y should use consine times log
 J = 1./m*sum( -y.*log(sigmoid(X*theta)) - (1-y).*log(1-sigmoid(X*theta)))
 
-%Note when implement the equation, be careful with the dimension of output
+%Note 
 grad = 1./m*(X'*(sigmoid(X*theta)-y))
 
 

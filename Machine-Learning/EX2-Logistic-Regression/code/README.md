@@ -12,3 +12,10 @@
 - costFunction.m - Logistic Regression Cost Function
 - predict.m - Logistic Regression Prediction Function
 - costFunctionReg.m - Regularized Logistic Regression Cost
+
+### Run
+
+- plot figure of ex2data2(negtive and positive examples)
+```
+ex2
+```
