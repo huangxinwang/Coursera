@@ -36,10 +36,16 @@ grad = zeros(size(theta));
 %           grad = grad + YOUR_CODE_HERE (using the temp variable)
 %
 
+%%From HW2
 
+%Note theta is [n+1,1]
+%y should use consine times log
+J = 1./m*sum( -y.*log(sigmoid(X*theta)) - (1-y).*log(1-sigmoid(X*theta))) + lambda/2/m*sum(theta.^2)
+J(1,1) = J(1,1) - lambda/2/m*theta(1,1).^2
 
-
-
+%Note when implement the equation, be careful with the dimension of output
+grad = 1./m*(X'*(sigmoid(X*theta)-y)) + lambda/m*theta
+grad(1,1) = grad(1,1) - lambda/m*theta(1,1)
 
 
 

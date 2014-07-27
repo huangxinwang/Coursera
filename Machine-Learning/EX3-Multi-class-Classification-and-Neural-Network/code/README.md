@@ -1,4 +1,5 @@
 Multi-class Classification and Neural Networks
+==============================================
 
 ### Introduction
 - In this exercise, you will implement one-vs-all logistic regression and neural
@@ -19,5 +20,5 @@ networks to recognize hand-written digits.
 - **predict.m** - Neural network prediction function
 
 ### Data
-- **ex3data1.mat** - Training set of hand-written digits
+- **ex3data1.mat** - 5000 Training set of hand-written digits
 - **ex3weights.mat** - Initial weights for the neural network exercise
