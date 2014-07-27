@@ -30,9 +30,11 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
+%% predict the labels for instances in X
+product = X*all_theta';
 
-
-
+%% get max_index
+[dp,p ]= max(product, [], 2);
 
 
 

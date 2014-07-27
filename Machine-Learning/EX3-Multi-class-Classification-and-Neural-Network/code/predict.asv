@@ -24,13 +24,12 @@ p = zeros(size(X, 1), 1);
 %add one column
 X = [ones(m,1) X];
 
-%dimention m*25
-a1 = sigmoid(X*Theta1'); 
+%25*m
+a1 = X*Theta1'; 
 
-%dimention m*26
-a1 = [ones(m,1) a1];
-
-%dimention m*n
+a1 = [
+tmp_a1 = [ones(401,1) a1'];
+a1 = tmp_a1';
 product = a1*Theta2';
 
 [dp p] = max(product, [], 2);
