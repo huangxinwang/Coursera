@@ -8,4 +8,8 @@ Course Information
 
 * Link: [Course Website](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
 
+Contents
+--------
+* Chap01: Introduction and probabilistic review
+
 
