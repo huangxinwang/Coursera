@@ -6,4 +6,4 @@
 
 | Lectures| Status|
 |:-----|:-----|
-|[]| |
+|[Data Center Latency](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/D2TCP%20PPT.pdf)| |
