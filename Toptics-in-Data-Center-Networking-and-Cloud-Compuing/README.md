@@ -9,4 +9,4 @@
 | Lectures| Topic| Status| Rate|
 |:-----|:-----|:-----|:-----|
 |[Data Center Latency](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/D2TCP%20PPT.pdf)| TCP | done| ** |
-|[Latency II](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/03-detail-sigcomm.pdf)| | | |
+|[Latency II](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/03-detail-sigcomm.pdf)| min flow completition time| done| ****|
