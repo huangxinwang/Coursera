@@ -11,4 +11,4 @@
 |[Data Center Latency](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/D2TCP%20PPT.pdf)| TCP | done| ** |
 |[Latency II](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/03-detail-sigcomm.pdf)| min flow completition time| done| ****|
 |[Data center resource sharing](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/[SIGCOMM'12]FairCloud.pptx)|bandwidth share | done| ** |
-|[Data center network structure](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/Feb6-Defense-YeTao.pptx)| FAT | done | **|
+|[Data center network structure](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/Feb6-Defense-YeTao.pptx). [drawback](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/Feb6-Defense-YeTao.pptx)| FAT | done | **|
