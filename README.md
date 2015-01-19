@@ -20,3 +20,4 @@ Code records for courses taken online
 - [Algorithm](./file/algorithm.md)
 - [Machine Learning](./file/ml.md)
 - [Data Mining](./file/dm.md)
+- [Probability](./file/prob.md)
