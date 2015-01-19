@@ -3,4 +3,4 @@
 
 |Courses| Source| States| Rate|
 |:----|:----|:----|:----|
-|[Machine Learning](./Machine-Learning) | Coursera| ing| |
+|[Machine Learning](../Machine-Learning) | Coursera| ing| |
