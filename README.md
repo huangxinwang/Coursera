@@ -1,7 +1,7 @@
 Online Courses
 ========
 
-Code records for courses taken online
+Code records or Notes for courses taken online
 
 
 ### Category
