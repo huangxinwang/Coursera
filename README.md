@@ -13,3 +13,10 @@ Code records for courses taken online
 
 ### Links
 - [To-Read](./file/toread.md)
+
+
+### Category
+- [System](./file/system.md)
+- [Algorithm](./file/algorithm.md)
+- [Machine Learning](./file/ml.md)
+- [Data Mining](./file/dm.md)
