@@ -4,6 +4,8 @@
 
 ### Learning Status
 
-| Lectures| Status|
-|:-----|:-----|
-|[Data Center Latency](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/D2TCP%20PPT.pdf)| |
+- Rate: indicates the closeness to my research, but no the quality of the lecture!
+
+| Lectures| Topic| Status| Rate|
+|:-----|:-----|:-----|:-----|
+|[Data Center Latency](http://www.cse.ust.hk/~kaichen/courses/spring2013/comp6611/lectures/D2TCP%20PPT.pdf)| TCP | done| ** |
