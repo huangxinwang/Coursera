@@ -4,7 +4,7 @@
 
 ### Learning Status
 
-- Rate: indicates the closeness to my research, but no the quality of the lecture!
+- Rate: indicates the closeness to my research, but not the quality of the lecture!
 
 | Lectures| Topic| Status| Rate|
 |:-----|:-----|:-----|:-----|
