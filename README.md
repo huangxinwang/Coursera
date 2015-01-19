@@ -7,13 +7,6 @@ Code records for courses taken online
 * Machine Learning: 7/1/2014-ing
 
 
-
-
-
-### Links
-- [To-Read](./file/toread.md)
-
-
 ### Category
 - [System](./file/system.md)
 - [Algorithm](./file/algorithm.md)
