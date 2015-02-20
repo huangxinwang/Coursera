@@ -2,3 +2,10 @@
 
 - Lecturer: [Jiawei Han](https://www.coursera.org/instructor/jiaweihan), UIUC, Professor
 - Source: Coursera
+
+
+- Status
+
+| Lecture Number| Contents | Status|
+|:---|:----|:---|
+|Week 1| Pattern mining method| finished on 2/20/2015|
